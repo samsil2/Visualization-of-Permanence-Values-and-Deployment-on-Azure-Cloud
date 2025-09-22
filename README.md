@@ -1,0 +1,1 @@
+# Visualization-of-Permanence-Values-and-Deployment-on-Azure-Cloud
